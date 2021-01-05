@@ -1,0 +1,115 @@
+body {
+    background: linear-gradient(#29B6F6 0%, #FAFAFA 100%);
+    text-align: center;
+}
+
+
+.bios {
+
+    text-align: center;
+    font-size: 15;
+    color: black;
+    padding: 20px;
+    border: 30px;
+
+
+}
+
+.imgyes {
+    border-radius: 50%;
+    padding: 0.55%;
+}
+
+h1 {
+    font-size: 20px;
+
+}
+
+.menu {
+      list-style: none;
+  font-family: sans-serif;
+  position: fixed;
+  top: 0px;
+  right: 30px;
+  cursor: pointer;
+  width: 100%;
+ margin: 0px;
+    z-index: 10;
+    
+}
+
+links{
+       display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-style: cursive;
+    font-size: 20px;
+    
+}
+
+.My hobbies/Character reviews {
+   
+}
+
+.yes {
+    font-size: 15px
+}
+
+.PARA {
+    font-size: 13;
+}
+
+.ROBIN2 {
+    width: 300px;
+    height: 300px;
+
+}
+#BILL THE BOY{
+    font-size: 16;
+    
+}
+#BILLYTHEKID{
+    width: 650;
+    height: 600;
+    transition: transform .2s;
+    
+}
+.WHOO{
+    font-size: 13px;
+    
+}
+#BILLYTHEKID:hover{
+    transform: scale(1.5)
+}
+#Contacts{
+    
+    
+}
+.somehow{
+        border: 30px;
+}
+.EXTRA STUFF{
+    transition: transform .2s
+}
+.EXTRA STUFF:hover{
+    cursor: pointer;
+    transform: scale(0.9);
+        
+}
+.IMGGG{
+    transition: transform;
+    width: 300;
+    height: 300;
+    
+}
+.IMGGG:hover{
+transform: scale(0.7);
+}
+.links:hover{
+    color: red;
+    font-size: 20px;
+    text-decoration: underline;
+}
+li{
+ display: inline;
+}
