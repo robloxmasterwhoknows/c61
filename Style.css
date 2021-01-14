@@ -1,0 +1,125 @@
+.WOWTHISIMG {
+    width: 700;
+    height: 350;
+    text-align: center;
+    transition: transform .2s;
+
+
+
+}
+
+.WOWTHISIMG:hover {
+    transform: scale(0.9)
+}
+
+body {
+    text-align: center;
+    background:
+}
+
+.BATTY {
+    height: 200;
+    width: 200;
+    transition: transform .2s;
+}
+
+.WONDERGirl {
+    height: 200;
+    width: 200;
+    transition: transform .2s;
+}
+
+.TEFLASH {
+    height: 200;
+    width: 200;
+    transition: transform .2s;
+}
+
+.BATTY:hover {
+    transform: scale(0.9)
+}
+
+.WONDERGirl:hover {
+    transform: scale(0.9)
+}
+
+.TEFLASH:hover {
+    transform: scale(0.9)
+}
+
+.SUPAMAN {
+    width: 200;
+    height: 200;
+    transition: transform .2s;
+}
+
+.GreenY {
+    width: 200;
+    height: 200;
+    transition: transform .2s;
+}
+
+.SUPAMAN:hover {
+    transform: scale(0.9)
+}
+
+.GreenY:hover {
+    transform: scale(0.9)
+}
+
+.HUNTMANER {
+    width: 200;
+    height: 200;
+    transition: transform .2s;
+}
+
+.LUTHORTHEVILLY {
+    width: 200;
+    height: 200;
+    transition: transform .2s;
+}
+
+.JOKE {
+    width: 200;
+    height: 200;
+    transition: transform .2s;
+}
+
+.HUNTMANER:hover {
+    transform: scale(0.9)
+}
+
+.LUTHORTHEVILLY:hover {
+    transform: scale(0.9)
+}
+
+.JOKE:hover {
+    transform: scale(0.9)
+}
+
+.START {
+    font-family: fantasy;
+    color: red;
+
+}
+
+.GRIDPARA {
+    font-family: cursive;
+    color: blue;
+
+}
+
+.img-responsive {
+    height: 400;
+    width: 400;
+}
+
+.img-BUGGAT {
+    height: 400;
+    width: 400;
+}
+
+.CY {
+    height: 400;
+    width: 400;
+}
